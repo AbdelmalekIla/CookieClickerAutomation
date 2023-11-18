@@ -19,7 +19,7 @@ This repository contains a Python script that utilizes Selenium to automate game
 2. Install the required Python packages:
 
     ```bash
-    pip install -r requirements.txt
+    pip install selenium
     ```
 
 3. Download the Chrome WebDriver and ensure it's in your system's PATH.
